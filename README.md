@@ -1,4 +1,4 @@
-# portfolio-assesment-iaDesign and Develop an Interactive Personal Portfolio Website
+# Design and Develop an Interactive Personal Portfolio Website
 
 Live URL: https://alfa2022-0502.netlify.app/
 
